@@ -1,0 +1,3 @@
+../Core/Src/ap/service/display/display.c:16:6:display_init	40	static
+../Core/Src/ap/service/display/display.c:24:6:display_distanceTask	16	static
+../Core/Src/ap/service/display/display.c:33:6:display_task	8	static
